@@ -7,6 +7,7 @@
  *  OS-level preferences by default, but allows for manual overrides saved to localStorage.
  */
 
+import logoPath from './cu-logo.svg';
 export function createHeader(onSearch: (query: string) => void, onMenuToggle: () => void): HTMLElement {
   const header = document.createElement('header');
   
@@ -18,7 +19,7 @@ export function createHeader(onSearch: (query: string) => void, onMenuToggle: ()
       <div class="flex justify-between items-center h-16">
         
         <div id="logo-home-btn" class="flex items-center gap-3 overflow-hidden cursor-pointer hover:opacity-80 transition-opacity" title="Return Home">
-          <img src="./cu-logo.svg" alt="Cardiff University Logo" class="h-12 w-auto" />
+          <img src="public/cu-logo.svg" alt="Cardiff University Logo" class="h-12 w-auto" />
           <span class="font-bold text-base sm:text-lg truncate">Open Day Planner</span>
         </div>
 
