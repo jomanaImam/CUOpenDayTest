@@ -25,7 +25,7 @@ For a detailed breakdown of the exact features and technical enhancements I impl
 To run this project on your local machine:
 
 1. Clone the repository:
-   git clone https://github.com/jomanaImam/CUOpenDay.git
+   git clone https://github.com/jomanaImam/CUOpenDayTest.git
 
 2. Navigate to the project directory:
    cd CUOpenDayTest
@@ -36,4 +36,4 @@ To run this project on your local machine:
 4. Start the development server:
    npm run dev
 
-   *Note: The application will run at `http://localhost:5173/CUOpenDay/`*
+   *Note: The application will run at `http://localhost:5173/CUOpenDayTest/`*
