@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
+  darkMode: 'class', 
   content: [
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}"
@@ -8,10 +9,10 @@ module.exports = {
     extend: {
       colors: {
         cardiff: {
-          red: '#D50032', // Cardiff University Red
-          dark: '#231F20', // Cardiff University Black
-          grey: '#A7A8AA', // Cardiff University Grey
-          light: '#F5F5F5', // Cardiff University Light Gray
+          red: '#D50032', 
+          dark: '#231F20', 
+          grey: '#A7A8AA', 
+          light: '#F5F5F5', 
           white: '#FFFFFF',
         },
       },
@@ -21,4 +22,4 @@ module.exports = {
     },
   },
   plugins: [],
-};
+}; 
