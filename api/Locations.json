@@ -1,0 +1,2403 @@
+{
+    "university": [
+        {
+            "id": 1,
+            "latitude": 51.4841915,
+            "longitude": -3.169572,
+            "active": 1,
+            "title": "Queen's Buildings",
+            "description": "The Queen's Buildings house the Schools of Physics and Astronomy and Engineering which facilitate multidisciplinary collaboration. They also house a restaurant, coffee shop and award-winning library.\r\n\r\nWater refill locations:\r\n\r\nSouth Building, second floor - S/2.29\r\nWest Building, Forum - Near Plant Room W/1.13A\r\nWest Building Extension, ground floor - 0.03\r\nWest Building Extension, first floor - 1.03\r\nWest Building Extension, second floor - 2.03\r\nWest Building Extension, third floor - 3.01",
+            "address": "5 The Parade, Newport Road",
+            "postcode": "CF24 3AA",
+            "campus_id": 1,
+            "cover_image": "https://cardiff.imgix.net/__data/assets/image/0006/2507937/queens-buildings.jpg?w=800\u0026fit=crop\u0026q=60\u0026auto=format",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/queens-buildings",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Queen's Buildings",
+            "external_id": 24173
+        },
+        {
+            "id": 3,
+            "latitude": 51.487815,
+            "longitude": -3.1786323,
+            "active": 1,
+            "title": "Main Building (Park Place)",
+            "description": "Main Building - Architect W.D. Caroe sought to combine the charm and elegance of his former college (Trinity College, Cambridge) with the picturesque balance of many of the University of Oxford colleges. Building work on the Main Building commenced in 1905 and was completed in many stages, the first in 1909. Money ran short for this project, however, and although the side-wings were completed in the 1960s the planned Great Hall has never been built.\r\n\r\nWater refill locations: \r\n\r\nGround floor - North corridor next to 0.91\r\nGround floor - 0.45 next to sink in PVC suite\r\n1st floor - Opposite Council Chamber by library",
+            "address": "Park Place",
+            "postcode": "CF10 3AT",
+            "campus_id": 1,
+            "cover_image": "https://cardiff.imgix.net/__data/assets/image/0007/1380454/main-building-open-day.jpg?w=500\u0026fit=crop\u0026q=60\u0026auto=format",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/main-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Main Building (Park Place)",
+            "external_id": 24059
+        },
+        {
+            "id": 4,
+            "latitude": 51.4883887,
+            "longitude": -3.1799664,
+            "active": 1,
+            "title": "Sir Martin Evans Building",
+            "description": "Water refill locations:\r\n\r\nEast ground floor - Outside E/0.17\r\nCentral ground floor - Outside C/0.05\r\nWest ground floor foyer - Outside W/0.04",
+            "address": "Museum Avenue",
+            "postcode": "CF10 3AX",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/SirMartinEvansBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/sir-martin-evans-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Sir Martin Evans Building",
+            "external_id": 24157
+        },
+        {
+            "id": 6,
+            "latitude": 51.487973,
+            "longitude": -3.184029,
+            "active": 1,
+            "title": "Redwood Building",
+            "description": "Water refill locations:\r\n\r\nGround Floor\r\n- Outside room 0.03 (near disabled toilets)",
+            "address": "King Edward VII Avenue",
+            "postcode": "CF10 3NB",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/RedwoodBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/redwood-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Redwood Building",
+            "external_id": 24176
+        },
+        {
+            "id": 7,
+            "latitude": 51.49235,
+            "longitude": -3.185816,
+            "active": 1,
+            "title": "Aberconway Building",
+            "description": "Aberconway Building\r\n\r\nWater refill locations:\r\n\r\nGround Floor\r\n- Room A16 located behind the male toilets on the Library corridor\r\n- Room A16 male toilets\r\n- Room A12 female toilets\r\n\r\n",
+            "address": "Colum Road, Cathays",
+            "postcode": "CF10 3EU",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/AberconwayBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/aberconway-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Aberconway Building",
+            "external_id": 23939
+        },
+        {
+            "id": 8,
+            "latitude": 51.4916053,
+            "longitude": -3.1826388,
+            "active": 1,
+            "title": "Optometry and Vision Sciences",
+            "description": "Water refill locations:\r\n\r\nGround floor - Adjacent to lift outside cleaner's cupboard (0.08a)\r\n1st floor - School office at top of front stairwell 1.02",
+            "address": "Maindy Road, Cathays",
+            "postcode": "CF24 4LU",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/OptomBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/optometry-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Optometry and Vision Sciences",
+            "external_id": 24170
+        },
+        {
+            "id": 9,
+            "latitude": 51.488902,
+            "longitude": -3.180826,
+            "active": 1,
+            "title": "Tower Building",
+            "description": "The reception desk opposite the main entrance is fitted with an induction loop for people with hearing impairments. There are two lifts that service all floors in the Tower Building, however there is restricted access to the first and second floors. A key will be issued at reception to access these floors.\r\n\r\nThe Tower refectory is located on the ground floor, opposite the main entrance. There is a shop with a seating area and computers are available for internet access.\r\n\r\nAccessible gender-neutral toilets are located on the ground and third floors. Toilet 0.06, on the ground floor is situated to the left of the main entrance, through the motorised double doors. The third floor toilet is room number 3.06.",
+            "address": "70 Park Place",
+            "postcode": "CF10 3AT",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/TowerBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/tower-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Tower Building",
+            "external_id": 24185
+        },
+        {
+            "id": 10,
+            "latitude": 51.5068064,
+            "longitude": -3.1912656,
+            "active": 1,
+            "title": "Main Hospital Building",
+            "description": null,
+            "address": "University Hospital of Wales, Heath Park",
+            "postcode": "CF14 4XN",
+            "campus_id": 2,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/MainHospitalBuidling.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/heath-park-campus/main-hospital-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 2,
+                "title": "Heath Park Campus",
+                "description": "Heath Park"
+            },
+            "tags2": null,
+            "building_name": "Main Hospital Building",
+            "external_id": 24381
+        },
+        {
+            "id": 11,
+            "latitude": 51.5078972,
+            "longitude": -3.1867399,
+            "active": 1,
+            "title": "Heath Park",
+            "description": "",
+            "address": "",
+            "postcode": "CF14 4EL",
+            "campus_id": 2,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/HeathPark.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/heath-park-campus",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "Social",
+                "University"
+            ],
+            "campus": {
+                "id": 2,
+                "title": "Heath Park Campus",
+                "description": "Heath Park"
+            },
+            "tags2": null,
+            "building_name": "Heath Park",
+            "external_id": 740912
+        },
+        {
+            "id": 13,
+            "latitude": 51.4891997,
+            "longitude": -3.1834388,
+            "active": 1,
+            "title": "Music Building",
+            "description": "As you approach the School of Music, you can’t fail to notice the bronze sculpture on the lawn outside. We often get asked about this artwork so here’s a little background on it. The piece is called Three Obliques (Walk-In) and was created by the famed artist Dame Barbara Hepworth in 1968. Only two others exist, one at Chatsworth House, and one in Seattle. It’s an astonishing piece of sculpture and provides a lovely backdrop for our annual graduation photos!\r\n\r\n",
+            "address": "31 Corbett Road, Cathays",
+            "postcode": "CF10 3EB",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/MusicBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/music-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Music Building",
+            "external_id": 24203
+        },
+        {
+            "id": 14,
+            "latitude": 51.486571,
+            "longitude": -3.1826037,
+            "active": 1,
+            "title": "Bute Building",
+            "description": "This Grade II listed neoclassical building was designed by architects Percy Thomas and Ivor Jones, who won a competition in 1911 to design a building for Cardiff Technical College. The foundations of the building were laid in 1913 and the building opened in 1916. There are six Roman Doric columns in the front of the building.\r\n\r\nWater refill locations:\r\n\r\nLower Floor \r\n- Room -1.12a male toilets \r\n\r\n1st Floor \r\n- Outside the library \r\n\r\nGround Floor\r\n- Refectory Area\r\n",
+            "address": "King Edward VII Avenue",
+            "postcode": "CF10 3NB",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/ButeBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/bute-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Bute Building",
+            "external_id": 23940
+        },
+        {
+            "id": 15,
+            "latitude": 51.490524,
+            "longitude": -3.182854,
+            "active": 1,
+            "title": "John Percival Building",
+            "description": "John Percival Building\r\n\r\nWater refill locations:\r\n\r\nGround Floor \r\n- Refectory Area\r\n- Extension corridor near 0.39",
+            "address": "Colum Drive",
+            "postcode": "CF10 3EU",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/JohnPercivalBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/john-percival-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "John Percival Building",
+            "external_id": 24167
+        },
+        {
+            "id": 16,
+            "latitude": 51.508059,
+            "longitude": -3.186132,
+            "active": 1,
+            "title": "Neuadd Meirionnydd",
+            "description": null,
+            "address": "University Hospital of Wales, Heath Park",
+            "postcode": "CF14 4YS",
+            "campus_id": 2,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/neuaddmeirionnydd.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/heath-park-campus/main-hospital-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 2,
+                "title": "Heath Park Campus",
+                "description": "Heath Park"
+            },
+            "tags2": null,
+            "building_name": "Neuadd Meirionnydd",
+            "external_id": 24256
+        },
+        {
+            "id": 17,
+            "latitude": 51.5062584,
+            "longitude": -3.1925007,
+            "active": 1,
+            "title": "Dental School",
+            "description": "Dental School\r\n\r\n",
+            "address": "Heath Park",
+            "postcode": "CF14 4XY",
+            "campus_id": 2,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/DentistryBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/heath-park-campus/dental-hospital-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 2,
+                "title": "Heath Park Campus",
+                "description": "Heath Park"
+            },
+            "tags2": null,
+            "building_name": "Dental School",
+            "external_id": 58185
+        },
+        {
+            "id": 18,
+            "latitude": 51.489266,
+            "longitude": -3.182017,
+            "active": 1,
+            "title": "Law and Politics Building",
+            "description": "Accessibility information\r\nThere is level access into the Law Building from Park Place and access from Museum Place is via a ramp with handrails or 5 steps with a handrail on the left hand side.\r\n\r\nThe reception is fitted with an induction loop for people with a hearing impairment. The lift services all floors, has a fold down seat for people with a mobility impairment, a mirror at the back and the levels are both audio and visually indicated.\r\n\r\nThere are accessible cubicles in the male (0.21) and female toilets (0.23) on the ground floor. There is an accessible gender-neutral toilet on the first floor (1.25A), which is around the corner from the lift.",
+            "address": "Museum Avenue",
+            "postcode": "CF10 3AX",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/LawBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/law-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Law and Politics Building",
+            "external_id": 24168
+        },
+        {
+            "id": 19,
+            "latitude": 51.485866,
+            "longitude": -3.1816685,
+            "active": 1,
+            "title": "Glamorgan Building",
+            "description": "Glamorgan Building\r\n\r\nWater refill locations:\r\n\r\nGround Floor \r\n- Outside room 0.60\r\n- Room 0.11\r\n- Student Hub (Room 0.02)\r\n\r\nFirst Floor \r\n- Near 1.01\r\n\r\nSecond Floor\r\n- Opposite room 2.20\r\n",
+            "address": "King Edward VII Avenue",
+            "postcode": "CF10 3WT",
+            "campus_id": 1,
+            "cover_image": "https://cardiff.imgix.net/__data/assets/image/0013/30208/glamorgan-building-16-9.jpg?w=800\u0026fit=crop\u0026q=60\u0026auto=format",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/glamorgan-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Glamorgan Building",
+            "external_id": 24057
+        },
+        {
+            "id": 20,
+            "latitude": 51.4894372,
+            "longitude": -3.1812968,
+            "active": 1,
+            "title": "School of Modern Languages Building",
+            "description": "Water refill locations:\r\nGround floor at the reception area\r\n",
+            "address": "66a Park Place,Cathays",
+            "postcode": "CF10 3AS",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/ModernLanguages.jpg",
+            "website": "https://www.cardiff.ac.uk/modern-languages/about-us/our-location",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "School of Modern Languages Building",
+            "external_id": 24234
+        },
+        {
+            "id": 24,
+            "latitude": 51.490139,
+            "longitude": -3.182152,
+            "active": 1,
+            "title": "Arts and Social Studies Library",
+            "description": "Drinking fountain located on the ground floor next to door 0.08.\r\n\r\n",
+            "address": "Colum Drive, Cathays",
+            "postcode": "CF10 3EU",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/ASSL.jpg",
+            "website": "https://www.cardiff.ac.uk/libraries/locations-opening-hours/arts-and-social-studies-library",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Library",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Arts and Social Studies Library",
+            "external_id": 24156
+        },
+        {
+            "id": 33,
+            "latitude": 51.4886911,
+            "longitude": -3.1779937,
+            "active": 1,
+            "title": "Fitness \u0026 Conditioning Centre",
+            "description": "The Centre offers three floors of cardio, resistance and weights equipment.\r\n",
+            "address": "Senghennydd Road",
+            "postcode": "CF24 4AY",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/FitnessConditioningCentre.jpg",
+            "website": "https://www.cardiff.ac.uk/community/use-our-facilities/sport/facilities/fitness-and-squash-centre",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Fitness",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Fitness \u0026 Conditioning Centre",
+            "external_id": 24146
+        },
+        {
+            "id": 40,
+            "latitude": 51.49161,
+            "longitude": -3.18453,
+            "active": 1,
+            "title": "Cardiff Business School Postgraduate Teaching Centre",
+            "description": "The Postgraduate Teaching Centre houses Cardiff Business School's growing postgraduate education programmes.",
+            "address": "Colum Road, Cathays",
+            "postcode": "CF10 3EU",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/Cardiff BusinessSchoolPostgraduateTeachingCentre.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/cardiff-business-school-postgraduate-teaching-centre",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Fitness",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Cardiff Business School Postgraduate Teaching Centre",
+            "external_id": 69725
+        },
+        {
+            "id": 43,
+            "latitude": 51.492216,
+            "longitude": -3.18295,
+            "active": 1,
+            "title": "Hadyn Ellis Building",
+            "description": "The Hadyn Ellis building is named in honour of the late University Deputy Vice-Chancellor, Professor Hadyn Ellis. The ground floor includes an attractive public area for lectures, displays and conferences about the University’s work and a 150-person lecture theatre. The building has been recognised for its sustainability and was awarded the Higher Education category of the Building Research Establishment Environmental Assessment Method BREEAM) Awards Wales in 2012.\r\n\r\nWater refill locations:\r\n\r\nGround Floor \r\n- Between the toilets (rooms 0.29 and 0.30)\r\n1st floor - Kitchen area\r\n2nd floor - Kitchen area\r\n3rd floor - Kitchen area",
+            "address": "Maindy Road",
+            "postcode": "CF24 4HQ",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/HadynEllis.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/hadyn-ellis-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Hadyn Ellis Building",
+            "external_id": 24166
+        },
+        {
+            "id": 67,
+            "latitude": 51.492809,
+            "longitude": -3.1846938,
+            "active": 1,
+            "title": "Cardiff University Brain Research Imaging Centre",
+            "description": "The Cardiff University Brain Research Imaging Centre houses a combination of neuroimaging equipment unique within Europe.\r\n\r\nWater refill locations:\r\n\r\nGround floor at the reception area. ",
+            "address": "Maindy Road",
+            "postcode": "CF24 4HQ",
+            "campus_id": null,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/Cardiff UniversityBrainResearchImagingCentre.jpg",
+            "website": null,
+            "accessible": 0,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 0,
+                "title": "",
+                "description": null
+            },
+            "tags2": null,
+            "building_name": "Cardiff University Brain Research Imaging Centre",
+            "external_id": 333249
+        },
+        {
+            "id": 82,
+            "latitude": 51.50799,
+            "longitude": -3.187472,
+            "active": 1,
+            "title": "Tŷ Dewi Sant",
+            "description": null,
+            "address": "University Hospital of Wales, Heath Park",
+            "postcode": "CF14 4XN",
+            "campus_id": 2,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/TyDewiSant.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/heath-park-campus/ty-dewi-sant",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 2,
+                "title": "Heath Park Campus",
+                "description": "Heath Park"
+            },
+            "tags2": null,
+            "building_name": "Tŷ Dewi Sant",
+            "external_id": 24253
+        },
+        {
+            "id": 86,
+            "latitude": 51.4844111,
+            "longitude": -3.1701386,
+            "active": 1,
+            "title": "Trevithick Building",
+            "description": "Water refill locations\r\n\r\nGround floor to the right of the shop",
+            "address": "The Parade, Newport Road",
+            "postcode": "CF24 3AA",
+            "campus_id": 1,
+            "cover_image": null,
+            "website": "https://www.cardiff.ac.uk/libraries/locations-opening-hours/trevithick-library",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "Library",
+                "Restaurant",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Trevithick Building",
+            "external_id": 24187
+        },
+        {
+            "id": 103,
+            "latitude": 51.49671,
+            "longitude": -3.194629,
+            "active": 1,
+            "title": "Talybont South",
+            "description": "Talybont South is part of the Talybont complex which is the largest of the University’s residences and provides a range of social amenities including excellent sports facilities. This purpose-built development is situated close to large areas of parkland and is a short walk or cycle to most of the academic buildings.",
+            "address": "Houses 1-27, Trotman Dickinson Place",
+            "postcode": "CF14 3UU",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/TalybontSouth.jpeg",
+            "website": "https://www.cardiff.ac.uk/study/accommodation/residences/talybont-south",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Accommodation",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Talybont South",
+            "external_id": 24144
+        },
+        {
+            "id": 113,
+            "latitude": 51.489,
+            "longitude": -3.184,
+            "active": 1,
+            "title": "Aberdare Hall",
+            "description": "Aberdare Hall was built in 1893 and retains many interesting period features. It is adjacent to the Cathays Park campus and offers both part catered and self catered accommodation. During term-time, the part catered option provides breakfast and evening meals Monday to Friday.",
+            "address": "Corbett Road",
+            "postcode": "CF10 3UP",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/AberdareHall.jpeg",
+            "website": "https://www.cardiff.ac.uk/study/accommodation/residences/aberdare-hall",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Accommodation",
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Aberdare Hall",
+            "external_id": 24133
+        },
+        {
+            "id": 121,
+            "latitude": 51.494889,
+            "longitude": -3.191636,
+            "active": 1,
+            "title": "Talybont Court",
+            "description": "Talybont Court is part of the Talybont complex, which is the largest of the University’s residences and provides a range of social amenities including excellent sports facilities. This purpose-built development is situated close to large areas of parkland and is a short walk or cycle to most of the academic buildings.\r\n\r\n",
+            "address": "North Road, Cathays",
+            "postcode": "CF14 3UA",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/TalybontCourt.jpeg",
+            "website": "https://www.cardiff.ac.uk/study/accommodation/residences/talybont-court",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Accommodation",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Talybont Court",
+            "external_id": 24142
+        },
+        {
+            "id": 129,
+            "latitude": 51.4918147,
+            "longitude": -3.185049,
+            "active": 1,
+            "title": "Julian Hodge Building",
+            "description": "Julian Hodge Building\r\n\r\nWater refill locations:\r\n\r\nGround Floor\r\n- Inside the refectory on the wall (room 0.05)\r\n2nd floor - Outside toilet 2.03\r\n",
+            "address": "Colum Drive",
+            "postcode": "CF10 3EU",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/JulianHodgeBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/julian-hodge-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 0,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Julian Hodge Building",
+            "external_id": 24058
+        },
+        {
+            "id": 133,
+            "latitude": 51.508072,
+            "longitude": -3.187013,
+            "active": 1,
+            "title": "Michael Griffith Education Centre",
+            "description": null,
+            "address": "University Hospital of Wales, Heath Park",
+            "postcode": "CF14 4XN",
+            "campus_id": 2,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/MichaelGriffithEducationCentre.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/heath-park-campus/michael-griffith-education-centre",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 0,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 2,
+                "title": "Heath Park Campus",
+                "description": "Heath Park"
+            },
+            "tags2": null,
+            "building_name": "Michael Griffith Education Centre",
+            "external_id": 84129
+        },
+        {
+            "id": 143,
+            "latitude": 51.507653,
+            "longitude": -3.1863576,
+            "active": 1,
+            "title": "Cochrane Building",
+            "description": "The Cochrane Building is located off Heath Park Way, next to the Neuadd Meirionnydd building.\r\n\r\nWater refill locations:\r\n\r\nGround Floor\r\n- Near room 0.29\r\n\r\n4th Floor\r\n- Outside the female toilets\r\n\r\n",
+            "address": "Heath Park",
+            "postcode": "CF14 4YU",
+            "campus_id": 2,
+            "cover_image": "https://cardiff.imgix.net/__data/assets/image/0014/53402/3501.19350.file.eng.500.280.jpg?w=575\u0026amp;amp;amp;ar=16:9",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/heath-park-campus/cochrane-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 2,
+                "title": "Heath Park Campus",
+                "description": "Heath Park"
+            },
+            "tags2": null,
+            "building_name": "Cochrane Building",
+            "external_id": 24443
+        },
+        {
+            "id": 144,
+            "latitude": 51.486302,
+            "longitude": -3.173171,
+            "active": 1,
+            "title": "Senghennydd Hall",
+            "description": "Senghennydd Hall is a part catered residence situated within a very short distance of the Cathays Park campus and ideal for students studying Mathematics, Physics and Astronomy, Engineering or Computer Science. The evening meal service provides students with a hot meal Monday to Friday except during vacations. Generally the meals are served 17:00-20:00 at the nearby Trevithick Restaurant in the Queen's Buildings.",
+            "address": "Senghennydd Road, Cathays",
+            "postcode": "CF24 4AG",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/SenghennyddHall.jpeg",
+            "website": "https://www.cardiff.ac.uk/study/accommodation/residences/senghennydd-hall",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Accommodation",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Senghennydd Hall",
+            "external_id": 24141
+        },
+        {
+            "id": 147,
+            "latitude": 51.4979891,
+            "longitude": -3.197334,
+            "active": 1,
+            "title": "Sports Training Village, Talybont",
+            "description": "",
+            "address": "Bevan Place",
+            "postcode": "CF14 3UX",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/SportsTrainingVillage.jpeg",
+            "website": "https://www.cardiff.ac.uk/sport/facilities/sports-training-village",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 0,
+            "tags": [
+                "Fitness",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Sports Training Village, Talybont",
+            "external_id": 24148
+        },
+        {
+            "id": 158,
+            "latitude": 51.4765051,
+            "longitude": -3.1802899,
+            "active": 1,
+            "title": "School of Journalism, Media and Culture, No 2 Central Square",
+            "description": "The School of Journalism, Media and Culture is located opposite Cardiff Central Train Station and is approximately 20-30 minutes on foot from the Cathays Park Campus. If you are travelling by train, you may wish to plan your day in advance and consider visiting the School on arrival at Cardiff Central, or on your return to the station.",
+            "address": "Cardiff",
+            "postcode": " CF10 1FS",
+            "campus_id": 5,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/No2CentralSquare.jpg",
+            "website": "https://www.cardiff.ac.uk/journalism-media-and-culture/about-us/our-location",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 5,
+                "title": "Central Square",
+                "description": "Central Square"
+            },
+            "tags2": null,
+            "building_name": "School of Journalism, Media and Culture, No 2 Central Square",
+            "external_id": null
+        },
+        {
+            "id": 160,
+            "latitude": 51.4874253,
+            "longitude": -3.1796296,
+            "active": 1,
+            "title": "Main Building (Museum Avenue) ",
+            "description": "Main Building - Architect W.D. Caroe sought to combine the charm and elegance of his former college (Trinity College, Cambridge) with the picturesque balance of many of the University of Oxford colleges. Building work on the Main Building commenced in 1905 and was completed in many stages, the first in 1909. Money ran short for this project, however, and although the side-wings were completed in the 1960s, the planned Great Hall has never been built.\r\n\r\nWater refill locations: \r\n\r\nGround floor - North corridor next to 0.91\r\nGround floor - 0.45 next to sink in PVC suite\r\n1st floor - Opposite Council Chamber by library",
+            "address": "Museum Avenue ",
+            "postcode": "CF10 3AX",
+            "campus_id": 1,
+            "cover_image": "https://cardiff.imgix.net/__data/assets/image/0007/1715848/Main-Building_BlueSky_GreenGrass.jpg?w=800\u0026fit=crop\u0026q=60\u0026auto=format",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/main-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Main Building (Museum Avenue) ",
+            "external_id": null
+        },
+        {
+            "id": 161,
+            "latitude": 51.487996,
+            "longitude": -3.1777093,
+            "active": 1,
+            "title": "Centre for Student Life",
+            "description": "The Centre for Student Life is a service-led project delivered in partnership with the Students’ Union and is part of the biggest campus upgrade in a generation. It is the fruition of a successful and dynamic partnership that the University is proud to enjoy with its student body.\r\n\r\nThe new building is home to the University's Student Life services including support with study, health and wellbeing, preparing for the future, managing money and living in Cardiff. It will also increase links with the Students’ Union and enhance the services already provided there.\r\n\r\nWater refill locations:\r\n\r\nGround floor - North end of the building\r\n1st floor - North end of the building\r\n2nd floor - North end of the building\r\n3rd floor - North end of the building\r\n4th floor - North end of the building\r\n",
+            "address": "Park Place\r\nCathays\r\nCardiff\r\nCF10 3BB",
+            "postcode": "CF10 3BB",
+            "campus_id": 1,
+            "cover_image": "https://cardiff.imgix.net/__data/assets/image/0020/2632412/Centre-for-Student-Life.jpeg?w=873\u0026amp;amp;ar=16:9\u0026amp;amp;q=80\u0026amp;amp;auto=format",
+            "website": null,
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Centre for Student Life",
+            "external_id": null
+        },
+        {
+            "id": 162,
+            "latitude": 51.4891899,
+            "longitude": -3.1785351,
+            "active": 1,
+            "title": "Abacws Building",
+            "description": "Accessibility information\r\n\r\nThere is level access into Abacws from Senghennydd Road through the main entrance, and also from the rear of the building behind Cathays train station.\r\n\r\nThe lifts service all floors. Each lift has a mirror at the back and the levels are both audio and visually indicated.\r\n\r\nThere are two accessible cubicles on each floor. These are adjacent to each set of toilets.\r\n\r\nBaby changing facilities are available in the Toilet for All on the ground floor.\r\n\r\nParking\r\n\r\nThere is street parking along Senghennydd Road, where blue badge holders can park free of charge.\r\n\r\nBicycle Parking\r\n\r\nThere are also freely available bicycle racks to the rear of the building next to the Cathays railway station ticket office.\r\n\r\nWater refill locations:\r\n\r\n2nd floor - North corridor\r\n2nd floor - South corridor\r\n3rd floor - North corridor\r\n3rd floor - South corridor\r\n4th floor - South corridor\r\n5th floor - North corridor\r\n\r\n",
+            "address": "Senghennydd Rd",
+            "postcode": "CF24 4AX",
+            "campus_id": 1,
+            "cover_image": "https://www.isgltd.com/-/media/images/isg/landing-pages/abcwys-image-1.jpg?w=1920\u0026usecustomfunctions=1\u0026centercrop=1\u0026hash=8DFA07D14191B29A2E1FB416F822D123",
+            "website": null,
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Abacws Building",
+            "external_id": null
+        },
+        {
+            "id": 165,
+            "latitude": 51.4928625,
+            "longitude": -3.1846723,
+            "active": 1,
+            "title": "CUBRIC",
+            "description": "Cardiff University Brain Research Imaging Centre",
+            "address": "",
+            "postcode": "CF24 4HQ",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/Cardiff UniversityBrainResearchImagingCentre.jpg",
+            "website": null,
+            "accessible": 0,
+            "parking": 0,
+            "bike_parking": 0,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "CUBRIC",
+            "external_id": null
+        },
+        {
+            "id": 167,
+            "latitude": 51.4980778,
+            "longitude": -3.1965184,
+            "active": 1,
+            "title": "Talybont Social Centre",
+            "description": null,
+            "address": "Talybont North\r\nBevan Place\r\n",
+            "postcode": "CF14 3UX",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/TalybontNorth.jpeg",
+            "website": null,
+            "accessible": 0,
+            "parking": 0,
+            "bike_parking": 0,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Talybont Social Centre",
+            "external_id": null
+        },
+        {
+            "id": 168,
+            "latitude": 51.5064883,
+            "longitude": -3.197017,
+            "active": 1,
+            "title": "Tŷ’r Wyddfa",
+            "description": "Permit and pay as you go parking, secure bike storage\r\n\r\nWater refill locations:\r\nGround floor corridors",
+            "address": "Heath Park West, St Agnus Road",
+            "postcode": "CF14 4US",
+            "campus_id": 4,
+            "cover_image": "https://static.cf.ac.uk/images/VisitCardiffApp/tyr_wyddfa.jpg",
+            "website": "https://www.cardiff.ac.uk/news/view/2821379-new-home-for-the-school-of-healthcare-sciences",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 4,
+                "title": "Heath Park West",
+                "description": "Heath Park West"
+            },
+            "tags2": null,
+            "building_name": "Tŷ’r Wyddfa",
+            "external_id": null
+        },
+        {
+            "id": 169,
+            "latitude": 51.50819,
+            "longitude": -3.19742,
+            "active": 1,
+            "title": "Ty'r Garth",
+            "description": "Permit and pay as you go parking, secure bike storage",
+            "address": "Heath Park West, St Agnus Road",
+            "postcode": "CF14 4US",
+            "campus_id": 4,
+            "cover_image": null,
+            "website": "https://www.cardiff.ac.uk/news/view/2821379-new-home-for-the-school-of-healthcare-sciences",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 4,
+                "title": "Heath Park West",
+                "description": "Heath Park West"
+            },
+            "tags2": null,
+            "building_name": "Ty'r Garth",
+            "external_id": null
+        },
+        {
+            "id": 170,
+            "latitude": 51.487629,
+            "longitude": -3.17765,
+            "active": 1,
+            "title": "Y Lle",
+            "description": null,
+            "address": "53 Park Place\r\nCathays\r\nCardiff",
+            "postcode": "CF10 3AT",
+            "campus_id": 1,
+            "cover_image": "https://cardiff.imgix.net/__data/assets/image/0018/50292/53-54Park-Place.jpg?w=370\u0026h=208\u0026fit=crop\u0026q=60\u0026auto=format",
+            "website": null,
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 0,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Y Lle",
+            "external_id": null
+        },
+        {
+            "id": 171,
+            "latitude": 51.492458,
+            "longitude": -3.18341,
+            "active": 1,
+            "title": "Spark",
+            "description": "The building is the home of Social Science Research Park (SPARK), Cardiff Innovations @ sbarc, function rooms, meeting rooms, a boardroom, event space, behavioural lab, visualisation lab, podcast studio, and office space.",
+            "address": "Maindy Road\r\nCardiff\r\n",
+            "postcode": "CF24 4HQ",
+            "campus_id": 1,
+            "cover_image": null,
+            "website": null,
+            "accessible": 0,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Spark",
+            "external_id": null
+        },
+        {
+            "id": 1,
+            "latitude": 51.4841915,
+            "longitude": -3.169572,
+            "active": 1,
+            "title": "School of Engineering, School of Physics and Astronomy",
+            "description": "The Queen's Buildings house the Schools of Physics and Astronomy and Engineering which facilitate multidisciplinary collaboration. They also house a restaurant, coffee shop and award-winning library.\r\n\r\nWater refill locations:\r\n\r\nSouth Building, second floor - S/2.29\r\nWest Building, Forum - Near Plant Room W/1.13A\r\nWest Building Extension, ground floor - 0.03\r\nWest Building Extension, first floor - 1.03\r\nWest Building Extension, second floor - 2.03\r\nWest Building Extension, third floor - 3.01",
+            "address": "5 The Parade, Newport Road",
+            "postcode": "CF24 3AA",
+            "campus_id": 1,
+            "cover_image": "https://cardiff.imgix.net/__data/assets/image/0006/2507937/queens-buildings.jpg?w=800\u0026fit=crop\u0026q=60\u0026auto=format",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/queens-buildings",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Queen's Buildings",
+            "external_id": null
+        },
+        {
+            "id": 3,
+            "latitude": 51.487815,
+            "longitude": -3.1786323,
+            "active": 1,
+            "title": "School of Chemistry, School of Earth and Environmental Sciences",
+            "description": "Main Building - Architect W.D. Caroe sought to combine the charm and elegance of his former college (Trinity College, Cambridge) with the picturesque balance of many of the University of Oxford colleges. Building work on the Main Building commenced in 1905 and was completed in many stages, the first in 1909. Money ran short for this project, however, and although the side-wings were completed in the 1960s the planned Great Hall has never been built.\r\n\r\nWater refill locations: \r\n\r\nGround floor - North corridor next to 0.91\r\nGround floor - 0.45 next to sink in PVC suite\r\n1st floor - Opposite Council Chamber by library",
+            "address": "Park Place",
+            "postcode": "CF10 3AT",
+            "campus_id": 1,
+            "cover_image": "https://cardiff.imgix.net/__data/assets/image/0007/1380454/main-building-open-day.jpg?w=500\u0026fit=crop\u0026q=60\u0026auto=format",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/main-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Main Building (Park Place)",
+            "external_id": null
+        },
+        {
+            "id": 4,
+            "latitude": 51.4883887,
+            "longitude": -3.1799664,
+            "active": 1,
+            "title": "School of Biosciences",
+            "description": "Water refill locations:\r\n\r\nEast ground floor - Outside E/0.17\r\nCentral ground floor - Outside C/0.05\r\nWest ground floor foyer - Outside W/0.04",
+            "address": "Museum Avenue",
+            "postcode": "CF10 3AX",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/SirMartinEvansBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/sir-martin-evans-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Sir Martin Evans Building",
+            "external_id": null
+        },
+        {
+            "id": 5,
+            "latitude": 51.4884128,
+            "longitude": -3.1775273,
+            "active": 1,
+            "title": "Students' Union",
+            "description": "Our Students’ Union is rated as one of the top 3 in the UK, according to the Whatuni Student Choice Awards 2024.",
+            "address": "Park Place",
+            "postcode": "CF10 3QN",
+            "campus_id": 1,
+            "cover_image": "https://cardiff.imgix.net/__data/assets/image/0007/2663728/_DSC8312-edit.JPG?w=500\u0026fit=crop\u0026q=60\u0026auto=format",
+            "website": null,
+            "accessible": 0,
+            "parking": 0,
+            "bike_parking": 0,
+            "tags": [
+                "Cafe"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Students' Union",
+            "external_id": null
+        },
+        {
+            "id": 6,
+            "latitude": 51.487973,
+            "longitude": -3.184029,
+            "active": 1,
+            "title": "School of Pharmacy and Pharmaceutical Sciences",
+            "description": "Water refill locations:\r\n\r\nGround Floor\r\n- Outside room 0.03 (near disabled toilets)",
+            "address": "King Edward VII Avenue",
+            "postcode": "CF10 3NB",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/RedwoodBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/redwood-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Redwood Building",
+            "external_id": null
+        },
+        {
+            "id": 7,
+            "latitude": 51.49235,
+            "longitude": -3.185816,
+            "active": 1,
+            "title": "Cardiff Business School",
+            "description": "Aberconway Building\r\n\r\nWater refill locations:\r\n\r\nGround Floor\r\n- Room A16 located behind the male toilets on the Library corridor\r\n- Room A16 male toilets\r\n- Room A12 female toilets\r\n\r\n",
+            "address": "Colum Road, Cathays",
+            "postcode": "CF10 3EU",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/AberconwayBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/aberconway-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Aberconway Building",
+            "external_id": null
+        },
+        {
+            "id": 8,
+            "latitude": 51.4916053,
+            "longitude": -3.1826388,
+            "active": 1,
+            "title": "School of Optometry and Vision Sciences",
+            "description": "Water refill locations:\r\n\r\nGround floor - Adjacent to lift outside cleaner's cupboard (0.08a)\r\n1st floor - School office at top of front stairwell 1.02",
+            "address": "Maindy Road, Cathays",
+            "postcode": "CF24 4LU",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/OptomBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/optometry-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Optometry and Vision Sciences",
+            "external_id": null
+        },
+        {
+            "id": 9,
+            "latitude": 51.488902,
+            "longitude": -3.180826,
+            "active": 1,
+            "title": "School of Psychology",
+            "description": "The reception desk opposite the main entrance is fitted with an induction loop for people with hearing impairments. There are two lifts that service all floors in the Tower Building, however there is restricted access to the first and second floors. A key will be issued at reception to access these floors.\r\n\r\nThe Tower refectory is located on the ground floor, opposite the main entrance. There is a shop with a seating area and computers are available for internet access.\r\n\r\nAccessible gender-neutral toilets are located on the ground and third floors. Toilet 0.06, on the ground floor is situated to the left of the main entrance, through the motorised double doors. The third floor toilet is room number 3.06.",
+            "address": "70 Park Place",
+            "postcode": "CF10 3AT",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/TowerBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/tower-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Tower Building",
+            "external_id": null
+        },
+        {
+            "id": 10,
+            "latitude": 51.5068064,
+            "longitude": -3.1912656,
+            "active": 1,
+            "title": "School of Medicine",
+            "description": null,
+            "address": "University Hospital of Wales, Heath Park",
+            "postcode": "CF14 4XN",
+            "campus_id": 2,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/MainHospitalBuidling.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/heath-park-campus/main-hospital-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 2,
+                "title": "Heath Park Campus",
+                "description": "Heath Park"
+            },
+            "tags2": null,
+            "building_name": "Main Hospital Building",
+            "external_id": null
+        },
+        {
+            "id": 11,
+            "latitude": 51.5078972,
+            "longitude": -3.1867399,
+            "active": 1,
+            "title": "School of Healthcare Sciences",
+            "description": "",
+            "address": "",
+            "postcode": "CF14 4EL",
+            "campus_id": 2,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/HeathPark.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/heath-park-campus",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "Social",
+                "University"
+            ],
+            "campus": {
+                "id": 2,
+                "title": "Heath Park Campus",
+                "description": "Heath Park"
+            },
+            "tags2": null,
+            "building_name": "Heath Park",
+            "external_id": null
+        },
+        {
+            "id": 13,
+            "latitude": 51.4891997,
+            "longitude": -3.1834388,
+            "active": 1,
+            "title": "School of Music",
+            "description": "As you approach the School of Music, you can’t fail to notice the bronze sculpture on the lawn outside. We often get asked about this artwork so here’s a little background on it. The piece is called Three Obliques (Walk-In) and was created by the famed artist Dame Barbara Hepworth in 1968. Only two others exist, one at Chatsworth House, and one in Seattle. It’s an astonishing piece of sculpture and provides a lovely backdrop for our annual graduation photos!\r\n\r\n",
+            "address": "31 Corbett Road, Cathays",
+            "postcode": "CF10 3EB",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/MusicBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/music-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Music Building",
+            "external_id": null
+        },
+        {
+            "id": 14,
+            "latitude": 51.486571,
+            "longitude": -3.1826037,
+            "active": 1,
+            "title": "Welsh School of Architecture",
+            "description": "This Grade II listed neoclassical building was designed by architects Percy Thomas and Ivor Jones, who won a competition in 1911 to design a building for Cardiff Technical College. The foundations of the building were laid in 1913 and the building opened in 1916. There are six Roman Doric columns in the front of the building.\r\n\r\nWater refill locations:\r\n\r\nLower Floor \r\n- Room -1.12a male toilets \r\n\r\n1st Floor \r\n- Outside the library \r\n\r\nGround Floor\r\n- Refectory Area\r\n",
+            "address": "King Edward VII Avenue",
+            "postcode": "CF10 3NB",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/ButeBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/bute-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Bute Building",
+            "external_id": null
+        },
+        {
+            "id": 15,
+            "latitude": 51.490524,
+            "longitude": -3.182854,
+            "active": 1,
+            "title": "School of English, Communication and Philosophy, School of History, Archaeology and Heritage, School of Welsh",
+            "description": "John Percival Building\r\n\r\nWater refill locations:\r\n\r\nGround Floor \r\n- Refectory Area\r\n- Extension corridor near 0.39",
+            "address": "Colum Drive",
+            "postcode": "CF10 3EU",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/JohnPercivalBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/john-percival-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "John Percival Building",
+            "external_id": null
+        },
+        {
+            "id": 16,
+            "latitude": 51.508059,
+            "longitude": -3.186132,
+            "active": 1,
+            "title": "Wales Deanery",
+            "description": null,
+            "address": "University Hospital of Wales, Heath Park",
+            "postcode": "CF14 4YS",
+            "campus_id": 2,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/neuaddmeirionnydd.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/heath-park-campus/main-hospital-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 2,
+                "title": "Heath Park Campus",
+                "description": "Heath Park"
+            },
+            "tags2": null,
+            "building_name": "Neuadd Meirionnydd",
+            "external_id": null
+        },
+        {
+            "id": 17,
+            "latitude": 51.5062584,
+            "longitude": -3.1925007,
+            "active": 1,
+            "title": "School of Dentistry",
+            "description": "Dental School\r\n\r\n",
+            "address": "Heath Park",
+            "postcode": "CF14 4XY",
+            "campus_id": 2,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/DentistryBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/heath-park-campus/dental-hospital-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 2,
+                "title": "Heath Park Campus",
+                "description": "Heath Park"
+            },
+            "tags2": null,
+            "building_name": "Dental School",
+            "external_id": null
+        },
+        {
+            "id": 18,
+            "latitude": 51.489266,
+            "longitude": -3.182017,
+            "active": 1,
+            "title": "School of Law and Politics",
+            "description": "Accessibility information\r\nThere is level access into the Law Building from Park Place and access from Museum Place is via a ramp with handrails or 5 steps with a handrail on the left hand side.\r\n\r\nThe reception is fitted with an induction loop for people with a hearing impairment. The lift services all floors, has a fold down seat for people with a mobility impairment, a mirror at the back and the levels are both audio and visually indicated.\r\n\r\nThere are accessible cubicles in the male (0.21) and female toilets (0.23) on the ground floor. There is an accessible gender-neutral toilet on the first floor (1.25A), which is around the corner from the lift.",
+            "address": "Museum Avenue",
+            "postcode": "CF10 3AX",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/LawBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/law-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Law and Politics Building",
+            "external_id": null
+        },
+        {
+            "id": 19,
+            "latitude": 51.485866,
+            "longitude": -3.1816685,
+            "active": 1,
+            "title": "School of Geography and Planning, School of Social Sciences",
+            "description": "Glamorgan Building\r\n\r\nWater refill locations:\r\n\r\nGround Floor \r\n- Outside room 0.60\r\n- Room 0.11\r\n- Student Hub (Room 0.02)\r\n\r\nFirst Floor \r\n- Near 1.01\r\n\r\nSecond Floor\r\n- Opposite room 2.20\r\n",
+            "address": "King Edward VII Avenue",
+            "postcode": "CF10 3WT",
+            "campus_id": 1,
+            "cover_image": "https://cardiff.imgix.net/__data/assets/image/0013/30208/glamorgan-building-16-9.jpg?w=800\u0026fit=crop\u0026q=60\u0026auto=format",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/glamorgan-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Glamorgan Building",
+            "external_id": null
+        },
+        {
+            "id": 20,
+            "latitude": 51.4894372,
+            "longitude": -3.1812968,
+            "active": 1,
+            "title": "School of Modern Languages",
+            "description": "Water refill locations:\r\nGround floor at the reception area\r\n",
+            "address": "66a Park Place,Cathays",
+            "postcode": "CF10 3AS",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/ModernLanguages.jpg",
+            "website": "https://www.cardiff.ac.uk/modern-languages/about-us/our-location",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "School of Modern Languages Building",
+            "external_id": null
+        },
+        {
+            "id": 158,
+            "latitude": 51.4765051,
+            "longitude": -3.1802899,
+            "active": 1,
+            "title": "School of Journalism, Media and Culture",
+            "description": "The School of Journalism, Media and Culture is located opposite Cardiff Central Train Station and is approximately 20-30 minutes on foot from the Cathays Park Campus. If you are travelling by train, you may wish to plan your day in advance and consider visiting the School on arrival at Cardiff Central, or on your return to the station.",
+            "address": "Cardiff",
+            "postcode": " CF10 1FS",
+            "campus_id": 5,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/No2CentralSquare.jpg",
+            "website": "https://www.cardiff.ac.uk/journalism-media-and-culture/about-us/our-location",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 5,
+                "title": "Central Square",
+                "description": "Central Square"
+            },
+            "tags2": null,
+            "building_name": "School of Journalism, Media and Culture, No 2 Central Square",
+            "external_id": null
+        },
+        {
+            "id": 162,
+            "latitude": 51.4891899,
+            "longitude": -3.1785351,
+            "active": 1,
+            "title": "School of Computer Science and Informatics, School of Mathematics",
+            "description": "Accessibility information\r\n\r\nThere is level access into Abacws from Senghennydd Road through the main entrance, and also from the rear of the building behind Cathays train station.\r\n\r\nThe lifts service all floors. Each lift has a mirror at the back and the levels are both audio and visually indicated.\r\n\r\nThere are two accessible cubicles on each floor. These are adjacent to each set of toilets.\r\n\r\nBaby changing facilities are available in the Toilet for All on the ground floor.\r\n\r\nParking\r\n\r\nThere is street parking along Senghennydd Road, where blue badge holders can park free of charge.\r\n\r\nBicycle Parking\r\n\r\nThere are also freely available bicycle racks to the rear of the building next to the Cathays railway station ticket office.\r\n\r\nWater refill locations:\r\n\r\n2nd floor - North corridor\r\n2nd floor - South corridor\r\n3rd floor - North corridor\r\n3rd floor - South corridor\r\n4th floor - South corridor\r\n5th floor - North corridor\r\n\r\n",
+            "address": "Senghennydd Rd",
+            "postcode": "CF24 4AX",
+            "campus_id": 1,
+            "cover_image": "https://www.isgltd.com/-/media/images/isg/landing-pages/abcwys-image-1.jpg?w=1920\u0026usecustomfunctions=1\u0026centercrop=1\u0026hash=8DFA07D14191B29A2E1FB416F822D123",
+            "website": null,
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Abacws Building",
+            "external_id": null
+        }
+    ],
+    "refreshments": [
+        {
+            "id": 1,
+            "latitude": 51.4841915,
+            "longitude": -3.169572,
+            "active": 1,
+            "title": "Trevithick Restaurant, Trevithick Building, Cathays Park Campus (Friday 27 June only)",
+            "description": "The Queen's Buildings house the Schools of Physics and Astronomy and Engineering which facilitate multidisciplinary collaboration. They also house a restaurant, coffee shop and award-winning library.\r\n\r\nWater refill locations:\r\n\r\nSouth Building, second floor - S/2.29\r\nWest Building, Forum - Near Plant Room W/1.13A\r\nWest Building Extension, ground floor - 0.03\r\nWest Building Extension, first floor - 1.03\r\nWest Building Extension, second floor - 2.03\r\nWest Building Extension, third floor - 3.01",
+            "address": "5 The Parade, Newport Road",
+            "postcode": "CF24 3AA",
+            "campus_id": 1,
+            "cover_image": "https://cardiff.imgix.net/__data/assets/image/0006/2507937/queens-buildings.jpg?w=800\u0026fit=crop\u0026q=60\u0026auto=format",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/queens-buildings",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Queen's Buildings",
+            "external_id": null
+        },
+        {
+            "id": 3,
+            "latitude": 51.487815,
+            "longitude": -3.1786323,
+            "active": 1,
+            "title": "Green Shoots Cafe, Main Building, Cathays Park Campus, Taste of Cardiff Food Market, Main Building, Cathays Park Campus, CU Food's Pop-Up, Main Building",
+            "description": "Main Building - Architect W.D. Caroe sought to combine the charm and elegance of his former college (Trinity College, Cambridge) with the picturesque balance of many of the University of Oxford colleges. Building work on the Main Building commenced in 1905 and was completed in many stages, the first in 1909. Money ran short for this project, however, and although the side-wings were completed in the 1960s the planned Great Hall has never been built.\r\n\r\nWater refill locations: \r\n\r\nGround floor - North corridor next to 0.91\r\nGround floor - 0.45 next to sink in PVC suite\r\n1st floor - Opposite Council Chamber by library",
+            "address": "Park Place",
+            "postcode": "CF10 3AT",
+            "campus_id": 1,
+            "cover_image": "https://cardiff.imgix.net/__data/assets/image/0007/1380454/main-building-open-day.jpg?w=500\u0026fit=crop\u0026q=60\u0026auto=format",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/main-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": "[2],[7],[2,7]",
+            "building_name": "Main Building (Park Place)",
+            "external_id": null
+        },
+        {
+            "id": 4,
+            "latitude": 51.4883887,
+            "longitude": -3.1799664,
+            "active": 1,
+            "title": "Biosciences Cafe, Sir Martin Evans Building, Cathays Park Campus",
+            "description": "Water refill locations:\r\n\r\nEast ground floor - Outside E/0.17\r\nCentral ground floor - Outside C/0.05\r\nWest ground floor foyer - Outside W/0.04",
+            "address": "Museum Avenue",
+            "postcode": "CF10 3AX",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/SirMartinEvansBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/sir-martin-evans-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": "[2,7]",
+            "building_name": "Sir Martin Evans Building",
+            "external_id": null
+        },
+        {
+            "id": 5,
+            "latitude": 51.4884128,
+            "longitude": -3.1775273,
+            "active": 1,
+            "title": "Costa Coffee, Park Place, Snack Shack, Students' Union, Toss'd, Students' Union , Starbucks, Students' Union, Cathays Park Campus , The Taf, Students' Union, Cathays Park Campus , The Falafel House, Students' Union, Cathays Park Campus , The Bagel Place, Students' Union, Cathays Park Campus, Boba Time, Students' Union, Cathays Park Campus, KU (Dessert Shop), Students' Union, Cathays Park Campus, Yutai (Asian Convenience Store), Students' Union, Cathays Park Campus",
+            "description": "Our Students’ Union is rated as one of the top 3 in the UK, according to the Whatuni Student Choice Awards 2024.",
+            "address": "Park Place",
+            "postcode": "CF10 3QN",
+            "campus_id": 1,
+            "cover_image": "https://cardiff.imgix.net/__data/assets/image/0007/2663728/_DSC8312-edit.JPG?w=500\u0026fit=crop\u0026q=60\u0026auto=format",
+            "website": null,
+            "accessible": 0,
+            "parking": 0,
+            "bike_parking": 0,
+            "tags": [
+                "Cafe"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": "[\"7\"],null,null,[7],[7],[7],[7],[2,7],[2,7]",
+            "building_name": "Students' Union",
+            "external_id": null
+        },
+        {
+            "id": 11,
+            "latitude": 51.5078972,
+            "longitude": -3.1867399,
+            "active": 1,
+            "title": "Taste of Cardiff Food Market - Heath Park Campus , Street Food Traders - Heath Park West",
+            "description": "",
+            "address": "",
+            "postcode": "CF14 4EL",
+            "campus_id": 2,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/HeathPark.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/heath-park-campus",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "Social",
+                "University"
+            ],
+            "campus": {
+                "id": 2,
+                "title": "Heath Park Campus",
+                "description": "Heath Park"
+            },
+            "tags2": "[7],[7]",
+            "building_name": "Heath Park",
+            "external_id": null
+        },
+        {
+            "id": 15,
+            "latitude": 51.490524,
+            "longitude": -3.182854,
+            "active": 1,
+            "title": "John Percival Cafe, John Percival Building, Cathays Park Campus",
+            "description": "John Percival Building\r\n\r\nWater refill locations:\r\n\r\nGround Floor \r\n- Refectory Area\r\n- Extension corridor near 0.39",
+            "address": "Colum Drive",
+            "postcode": "CF10 3EU",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/JohnPercivalBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/john-percival-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": "[2]",
+            "building_name": "John Percival Building",
+            "external_id": null
+        },
+        {
+            "id": 19,
+            "latitude": 51.485866,
+            "longitude": -3.1816685,
+            "active": 1,
+            "title": "Glamorgan Cafe, Glamorgan Building, Cathays Park Campus",
+            "description": "Glamorgan Building\r\n\r\nWater refill locations:\r\n\r\nGround Floor \r\n- Outside room 0.60\r\n- Room 0.11\r\n- Student Hub (Room 0.02)\r\n\r\nFirst Floor \r\n- Near 1.01\r\n\r\nSecond Floor\r\n- Opposite room 2.20\r\n",
+            "address": "King Edward VII Avenue",
+            "postcode": "CF10 3WT",
+            "campus_id": 1,
+            "cover_image": "https://cardiff.imgix.net/__data/assets/image/0013/30208/glamorgan-building-16-9.jpg?w=800\u0026fit=crop\u0026q=60\u0026auto=format",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/glamorgan-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Glamorgan Building",
+            "external_id": null
+        },
+        {
+            "id": 40,
+            "latitude": 51.49161,
+            "longitude": -3.18453,
+            "active": 1,
+            "title": "Tŷ Coffi, Cardiff Business School Postgraduate Teaching Centre",
+            "description": "The Postgraduate Teaching Centre houses Cardiff Business School's growing postgraduate education programmes.",
+            "address": "Colum Road, Cathays",
+            "postcode": "CF10 3EU",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/Cardiff BusinessSchoolPostgraduateTeachingCentre.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/cardiff-business-school-postgraduate-teaching-centre",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Fitness",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Cardiff Business School Postgraduate Teaching Centre",
+            "external_id": null
+        },
+        {
+            "id": 43,
+            "latitude": 51.492216,
+            "longitude": -3.18295,
+            "active": 1,
+            "title": "Hadyn Ellis Café",
+            "description": "The Hadyn Ellis building is named in honour of the late University Deputy Vice-Chancellor, Professor Hadyn Ellis. The ground floor includes an attractive public area for lectures, displays and conferences about the University’s work and a 150-person lecture theatre. The building has been recognised for its sustainability and was awarded the Higher Education category of the Building Research Establishment Environmental Assessment Method BREEAM) Awards Wales in 2012.\r\n\r\nWater refill locations:\r\n\r\nGround Floor \r\n- Between the toilets (rooms 0.29 and 0.30)\r\n1st floor - Kitchen area\r\n2nd floor - Kitchen area\r\n3rd floor - Kitchen area",
+            "address": "Maindy Road",
+            "postcode": "CF24 4HQ",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/HadynEllis.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/hadyn-ellis-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Hadyn Ellis Building",
+            "external_id": null
+        },
+        {
+            "id": 129,
+            "latitude": 51.4918147,
+            "longitude": -3.185049,
+            "active": 1,
+            "title": "Julian Hodge Restaurant, Julian Hodge Building, Cathays Park Campus ",
+            "description": "Julian Hodge Building\r\n\r\nWater refill locations:\r\n\r\nGround Floor\r\n- Inside the refectory on the wall (room 0.05)\r\n2nd floor - Outside toilet 2.03\r\n",
+            "address": "Colum Drive",
+            "postcode": "CF10 3EU",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/JulianHodgeBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/julian-hodge-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 0,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": "[2]",
+            "building_name": "Julian Hodge Building",
+            "external_id": null
+        },
+        {
+            "id": 152,
+            "latitude": 51.5080429,
+            "longitude": -3.1858936,
+            "active": 1,
+            "title": "IV Lounge, Heath Park Campus",
+            "description": null,
+            "address": "Heath Park Way, Cardiff ",
+            "postcode": "CF14 4YU",
+            "campus_id": 2,
+            "cover_image": "https://cardiff.imgix.net/__data/assets/image/0005/113468/cochranebuilding.jpg?w=300\u0026ar=16:9\u0026q=80\u0026auto=format",
+            "website": null,
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe"
+            ],
+            "campus": {
+                "id": 2,
+                "title": "Heath Park Campus",
+                "description": "Heath Park"
+            },
+            "tags2": "[2]",
+            "building_name": "IV Lounge ",
+            "external_id": null
+        },
+        {
+            "id": 161,
+            "latitude": 51.487996,
+            "longitude": -3.1777093,
+            "active": 1,
+            "title": "Baby Shoots Cafe, Centre for Student Life",
+            "description": "The Centre for Student Life is a service-led project delivered in partnership with the Students’ Union and is part of the biggest campus upgrade in a generation. It is the fruition of a successful and dynamic partnership that the University is proud to enjoy with its student body.\r\n\r\nThe new building is home to the University's Student Life services including support with study, health and wellbeing, preparing for the future, managing money and living in Cardiff. It will also increase links with the Students’ Union and enhance the services already provided there.\r\n\r\nWater refill locations:\r\n\r\nGround floor - North end of the building\r\n1st floor - North end of the building\r\n2nd floor - North end of the building\r\n3rd floor - North end of the building\r\n4th floor - North end of the building\r\n",
+            "address": "Park Place\r\nCathays\r\nCardiff\r\nCF10 3BB",
+            "postcode": "CF10 3BB",
+            "campus_id": 1,
+            "cover_image": "https://cardiff.imgix.net/__data/assets/image/0020/2632412/Centre-for-Student-Life.jpeg?w=873\u0026amp;amp;ar=16:9\u0026amp;amp;q=80\u0026amp;amp;auto=format",
+            "website": null,
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": "[2,7]",
+            "building_name": "Centre for Student Life",
+            "external_id": null
+        },
+        {
+            "id": 168,
+            "latitude": 51.5064883,
+            "longitude": -3.197017,
+            "active": 1,
+            "title": "Handlebar Barista - Tŷ’r Wyddfa, Heath Park West",
+            "description": "Permit and pay as you go parking, secure bike storage\r\n\r\nWater refill locations:\r\nGround floor corridors",
+            "address": "Heath Park West, St Agnus Road",
+            "postcode": "CF14 4US",
+            "campus_id": 4,
+            "cover_image": "https://static.cf.ac.uk/images/VisitCardiffApp/tyr_wyddfa.jpg",
+            "website": "https://www.cardiff.ac.uk/news/view/2821379-new-home-for-the-school-of-healthcare-sciences",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 4,
+                "title": "Heath Park West",
+                "description": "Heath Park West"
+            },
+            "tags2": "[2,7]",
+            "building_name": "Tŷ’r Wyddfa",
+            "external_id": null
+        },
+        {
+            "id": 171,
+            "latitude": 51.492458,
+            "longitude": -3.18341,
+            "active": 1,
+            "title": "Paned yn Sbarc, Cathays Park Campus (Friday 27 June only)",
+            "description": "The building is the home of Social Science Research Park (SPARK), Cardiff Innovations @ sbarc, function rooms, meeting rooms, a boardroom, event space, behavioural lab, visualisation lab, podcast studio, and office space.",
+            "address": "Maindy Road\r\nCardiff\r\n",
+            "postcode": "CF24 4HQ",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/refreshments/cu-logo.png",
+            "website": null,
+            "accessible": 0,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": "[2,7]",
+            "building_name": "Spark",
+            "external_id": null
+        }
+    ],
+    "transportation": [
+        {
+            "id": 14,
+            "latitude": 51.486571,
+            "longitude": -3.1826037,
+            "active": 1,
+            "title": "By car",
+            "description": "Please note we are unable to offer parking on University premises, with the exception of a limited number of spaces in Bute Building car park for visitors with a disability. Please contact us in advance if you require this (openday@cardiff.ac.uk). \r\n\r\nHowever, there is limited on street ‘pay and display’ parking on Park Place, Senghennydd Road and within the civic centre. This typically costs around £8 for five hours. Charges for city centre multi-storey car parks vary considerably, up to approximately £32.95 per day.\r\n\r\n**Due to a concert at Blackweir Fields on Friday 27 June, there will be road closures in the vicinity of our campus from 16:00. All day event parking will be enforced around the Civic Centre at a charge of £20 per car.**\r\n\r\n",
+            "address": "King Edward VII Avenue",
+            "postcode": "CF10 3NB",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/ButeBuilding.jpg",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/bute-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Bute Building",
+            "external_id": 23940
+        },
+        {
+            "id": 21,
+            "latitude": 51.521775,
+            "longitude": -3.136961,
+            "active": 1,
+            "title": "Cardiff Bus, Cardiff East Park \u0026 Ride",
+            "description": "Park \u0026 Ride, Junction 30 of the A48 (M), CF23 8HH\r\n\r\nThere will be a special University Open Day shuttle service from the Cardiff East Park and Ride (Junction 30 of the A48(M), CF23 8HH) site to our Cathays Park Campus. The Open Day bus service begins after 08:00 and runs until 16:30.\r\n\r\nBuses from the Park and Ride depart approximately every 15 minutes. The journey time to the city centre is around 20 minutes and will cost £12 per car (cash or contactless). If paying by cash, the exact fare is required. The Park and Ride service may provide a more convenient option as spaces in the city centre can be limited and the cost of parking can vary.\r\n\r\nReturn buses to the Cardiff East Park and Ride site will depart from the bus stop outside the Law Building on Park Place (Cathays Park Campus) throughout the day, until 16:30. This is the same bus stop at which visitors disembark the shuttle service on the inbound journey.\r\n\r\n**Please note that, at peak times, there may be a queue on both the inbound and outbound route. The Park and Ride site closes promptly at 18:00 and is locked overnight. It will not be possible to access the site after 18.00 and the site remains closed on Sundays.** ",
+            "address": "",
+            "postcode": "CF23 8HH",
+            "campus_id": null,
+            "cover_image": "https://i2-prod.walesonline.co.uk/incoming/article14124077.ece/ALTERNATES/s810/CAR_PARK_ECHO081111P06.jpg",
+            "website": "",
+            "accessible": 0,
+            "parking": 0,
+            "bike_parking": 0,
+            "tags": [],
+            "campus": {
+                "id": 0,
+                "title": "",
+                "description": null
+            },
+            "tags2": "[10,13]",
+            "building_name": "East Park \u0026 Ride",
+            "external_id": null
+        },
+        {
+            "id": 153,
+            "latitude": 51.475974,
+            "longitude": -3.178751,
+            "active": 1,
+            "title": "Cardiff Central Train Station",
+            "description": "Frequent regional network trains connect Cardiff with many towns and cities across the UK. Cardiff Central train station is approximately 20 minutes’ walk from Cardiff University's Main Building. Walking will allow you to get a feel for the city including the shops, restaurants and entertainment it has to offer.\r\n\r\n\r\nGiven the School of Journalism, Media and Culture's close proximity to Cardiff Central Train Station, those travelling by train who are interested in Journalism courses may wish to consider visiting the School on arrival to Cardiff or on their return to the station. Please consult the School's pages in the app to see their scheduled activities.\r\n\r\n\r\n\r\n",
+            "address": "",
+            "postcode": "CF10 1EP",
+            "campus_id": null,
+            "cover_image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Cardiff_Central_station_%2826526139271%29.jpg",
+            "website": "",
+            "accessible": 0,
+            "parking": 0,
+            "bike_parking": 0,
+            "tags": [],
+            "campus": {
+                "id": 0,
+                "title": "",
+                "description": null
+            },
+            "tags2": "[11]",
+            "building_name": "Cardiff Central Railway Station ",
+            "external_id": null
+        },
+        {
+            "id": 154,
+            "latitude": 51.398409,
+            "longitude": -3.339308,
+            "active": 1,
+            "title": "Cardiff Airport",
+            "description": "Several inter-regional and international air services operate from Cardiff Airport, which is about 12 miles from the city centre. Find out more about public transport links to and from Cardiff International Airport by visiting the airport's website. \r\n\r\nAdditional transport services are available from a number of UK airports providing onwards travel to Cardiff.",
+            "address": "Vale of Glamorgan\r\n",
+            "postcode": "CF62 3BD",
+            "campus_id": null,
+            "cover_image": "https://www.visitcardiff.com/app/uploads/2019/10/Untitled-1.jpg",
+            "website": null,
+            "accessible": 0,
+            "parking": 0,
+            "bike_parking": 0,
+            "tags": [],
+            "campus": {
+                "id": 0,
+                "title": "",
+                "description": null
+            },
+            "tags2": "[12]",
+            "building_name": "Cardiff Airport",
+            "external_id": null
+        },
+        {
+            "id": 155,
+            "latitude": 51.4889101,
+            "longitude": -3.178739,
+            "active": 1,
+            "title": "Cathays Train Station",
+            "description": "Visitors can change at Cardiff Central for Cathays Train Station. Cathays station is located in the centre of the Cathays Park Campus, opposite the Main Building. It provides easy access to all other University buildings at Cathays Park Campus, including the Students’ Union.",
+            "address": " ",
+            "postcode": "CF10 3AT",
+            "campus_id": 1,
+            "cover_image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Cathays_railway_station_%28geograph_5452631%29.jpg",
+            "website": "",
+            "accessible": 0,
+            "parking": 0,
+            "bike_parking": 0,
+            "tags": [],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": "[11]",
+            "building_name": "Cathays Train Station ",
+            "external_id": null
+        },
+        {
+            "id": 160,
+            "latitude": 51.4874253,
+            "longitude": -3.1796296,
+            "active": 1,
+            "title": "By car",
+            "description": "Please note we are unable to offer parking on University premises, with the exception of a limited number of spaces for visitors with a disability. Please contact us in advance if you require this (+44 (0)29 2087 4455). \r\n\r\nHowever, there is limited on street ‘pay and display’ parking on Park Place, Senghennydd Road and within the civic centre. This typically costs around £6.60 for five hours. Charges for city centre multi-storey car parks vary considerably, up to approximately £30 per day.",
+            "address": "Museum Avenue ",
+            "postcode": "CF10 3AX",
+            "campus_id": 1,
+            "cover_image": "https://cardiff.imgix.net/__data/assets/image/0007/1715848/Main-Building_BlueSky_GreenGrass.jpg?w=800\u0026fit=crop\u0026q=60\u0026auto=format",
+            "website": "https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/main-building",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Main Building (Museum Avenue) ",
+            "external_id": null
+        },
+        {
+            "id": 163,
+            "latitude": 51.4839683,
+            "longitude": -3.1894849,
+            "active": 1,
+            "title": "By bus ",
+            "description": "National coach companies, such as National Express and Megabus, run regular services to Cardiff from many major cities across the UK. Our main coach station is based at Sophia Gardens. However, we advise that you check the departure and arrival points with each individual operator. ",
+            "address": "",
+            "postcode": "",
+            "campus_id": null,
+            "cover_image": "https://images.cardiffbus.com/styles/large/s3/Sophia%20Gardens.jpg",
+            "website": "",
+            "accessible": 0,
+            "parking": 0,
+            "bike_parking": 0,
+            "tags": [],
+            "campus": {
+                "id": 0,
+                "title": "",
+                "description": null
+            },
+            "tags2": "[10]",
+            "building_name": "Sophia Gardens",
+            "external_id": null
+        }
+    ],
+    "accommodation": [
+        {
+            "id": 103,
+            "latitude": 51.49671,
+            "longitude": -3.194629,
+            "active": 1,
+            "title": "Talybont South",
+            "description": "Talybont South is part of the Talybont complex which is the largest of the University’s residences and provides a range of social amenities including excellent sports facilities. This purpose-built development is situated close to large areas of parkland and is a short walk or cycle to most of the academic buildings.",
+            "address": "Houses 1-27, Trotman Dickinson Place",
+            "postcode": "CF14 3UU",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/TalybontSouth.jpeg",
+            "website": "https://www.cardiff.ac.uk/study/accommodation/residences/talybont-south",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Accommodation",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Talybont South",
+            "external_id": 24144
+        },
+        {
+            "id": 113,
+            "latitude": 51.489,
+            "longitude": -3.184,
+            "active": 1,
+            "title": "Aberdare Hall",
+            "description": "Aberdare Hall was built in 1893 and retains many interesting period features. It is adjacent to the Cathays Park campus and offers both part catered and self catered accommodation. During term-time, the part catered option provides breakfast and evening meals Monday to Friday.",
+            "address": "Corbett Road",
+            "postcode": "CF10 3UP",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/AberdareHall.jpeg",
+            "website": "https://www.cardiff.ac.uk/study/accommodation/residences/aberdare-hall",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Accommodation",
+                "Cafe",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Aberdare Hall",
+            "external_id": 24133
+        },
+        {
+            "id": 121,
+            "latitude": 51.494889,
+            "longitude": -3.191636,
+            "active": 1,
+            "title": "Talybont Court",
+            "description": "Talybont Court is part of the Talybont complex, which is the largest of the University’s residences and provides a range of social amenities including excellent sports facilities. This purpose-built development is situated close to large areas of parkland and is a short walk or cycle to most of the academic buildings.\r\n\r\n",
+            "address": "North Road, Cathays",
+            "postcode": "CF14 3UA",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/TalybontCourt.jpeg",
+            "website": "https://www.cardiff.ac.uk/study/accommodation/residences/talybont-court",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Accommodation",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Talybont Court",
+            "external_id": 24142
+        },
+        {
+            "id": 144,
+            "latitude": 51.486302,
+            "longitude": -3.173171,
+            "active": 1,
+            "title": "Senghennydd Hall",
+            "description": "Senghennydd Hall is a part catered residence situated within a very short distance of the Cathays Park campus and ideal for students studying Mathematics, Physics and Astronomy, Engineering or Computer Science. The evening meal service provides students with a hot meal Monday to Friday except during vacations. Generally the meals are served 17:00-20:00 at the nearby Trevithick Restaurant in the Queen's Buildings.",
+            "address": "Senghennydd Road, Cathays",
+            "postcode": "CF24 4AG",
+            "campus_id": 1,
+            "cover_image": "https://opendaydata.cardiff.ac.uk/images/locations/SenghennyddHall.jpeg",
+            "website": "https://www.cardiff.ac.uk/study/accommodation/residences/senghennydd-hall",
+            "accessible": 1,
+            "parking": 0,
+            "bike_parking": 1,
+            "tags": [
+                "Accommodation",
+                "University"
+            ],
+            "campus": {
+                "id": 1,
+                "title": "Cathays Park Campus",
+                "description": "Cathays Park Campus"
+            },
+            "tags2": null,
+            "building_name": "Senghennydd Hall",
+            "external_id": 24141
+        }
+    ]
+}

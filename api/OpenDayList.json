@@ -1,0 +1,167 @@
+[
+    {
+        "id": 5,
+        "start_time": "2023-05-26T12:50:00",
+        "end_time": "2023-05-29T10:48:00",
+        "active": 0,
+        "cover_image": null,
+        "type": "P",
+        "description": "Open Day Abacws building",
+        "video_cover_url_en": null,
+        "video_cover_url_cy": null
+    },
+    {
+        "id": 2,
+        "start_time": "2023-09-16T09:00:00",
+        "end_time": "2023-10-16T16:00:00",
+        "active": 0,
+        "cover_image": "https://cardiff.imgix.net/__data/assets/image/0007/1380454/main-building-open-day.jpg?w=800\u0026fit=crop\u0026q=60\u0026auto=format",
+        "type": "U",
+        "description": "Undergraduate Open Day Renamed September do not use",
+        "video_cover_url_en": null,
+        "video_cover_url_cy": null
+    },
+    {
+        "id": 3,
+        "start_time": "2023-09-16T09:00:00",
+        "end_time": "2023-09-16T16:00:00",
+        "active": 1,
+        "cover_image": "https://cardiff.imgix.net/__data/assets/image/0012/657669/Open-Day-banner-image-small.jpg?w=1000\u0026fit=crop\u0026q=60\u0026auto=format",
+        "type": "U",
+        "description": "Undergraduate Open Day September",
+        "video_cover_url_en": null,
+        "video_cover_url_cy": null
+    },
+    {
+        "id": 7,
+        "start_time": "2023-10-21T09:00:00",
+        "end_time": "2023-10-21T16:00:00",
+        "active": 1,
+        "cover_image": "https://cardiff.imgix.net/__data/assets/image/0012/657669/Open-Day-banner-image-small.jpg?w=1000\u0026fit=crop\u0026q=60\u0026auto=format",
+        "type": "U",
+        "description": "Undergraduate Open Day October 21",
+        "video_cover_url_en": null,
+        "video_cover_url_cy": null
+    },
+    {
+        "id": 6,
+        "start_time": "2023-11-22T10:00:00",
+        "end_time": "2023-11-22T14:00:00",
+        "active": 0,
+        "cover_image": "https://cardiff.imgix.net/__data/assets/image/0007/1380454/main-building-open-day.jpg?w=800\u0026fit=crop\u0026q=60\u0026auto=format",
+        "type": "P",
+        "description": "Postgraduate Open Day November ",
+        "video_cover_url_en": null,
+        "video_cover_url_cy": null
+    },
+    {
+        "id": 10,
+        "start_time": "2024-07-06T09:00:00",
+        "end_time": "2024-07-06T16:00:00",
+        "active": 1,
+        "cover_image": "https://cardiff.imgix.net/__data/assets/image/0012/657669/Open-Day-banner-image-small.jpg?w=1000\u0026fit=crop\u0026q=60\u0026auto=format",
+        "type": "U",
+        "description": "Undergraduate Open Day Saturday 6 July ",
+        "video_cover_url_en": null,
+        "video_cover_url_cy": null
+    },
+    {
+        "id": 9,
+        "start_time": "2024-09-14T09:00:00",
+        "end_time": "2024-09-14T16:00:00",
+        "active": 1,
+        "cover_image": "https://cardiff.imgix.net/__data/assets/image/0009/580329/OR_3023.jpg?w=1000\u0026fit=crop\u0026q=60\u0026auto=format",
+        "type": "U",
+        "description": "Undergraduate Open Day Saturday 14 September",
+        "video_cover_url_en": null,
+        "video_cover_url_cy": null
+    },
+    {
+        "id": 12,
+        "start_time": "2024-10-19T09:00:00",
+        "end_time": "2024-10-19T16:00:00",
+        "active": 1,
+        "cover_image": "https://cardiff.imgix.net/__data/assets/image/0005/2840135/study-expanded.jpg?w=800\u0026q=60\u0026auto=format\u0026fit=crop",
+        "type": "U",
+        "description": "Undergraduate Open Day Saturday 19 October",
+        "video_cover_url_en": null,
+        "video_cover_url_cy": null
+    },
+    {
+        "id": 13,
+        "start_time": "2024-11-20T10:00:00",
+        "end_time": "2024-11-20T16:00:00",
+        "active": 1,
+        "cover_image": "https://cardiff.imgix.net/__data/assets/image/0007/1380454/main-building-open-day.jpg?w=800\u0026fit=crop\u0026q=60\u0026auto=format",
+        "type": "P",
+        "description": "Postgraduate Open Day Wednesday 20 November",
+        "video_cover_url_en": null,
+        "video_cover_url_cy": null
+    },
+    {
+        "id": 14,
+        "start_time": "2025-06-27T09:00:00",
+        "end_time": "2025-06-27T16:00:00",
+        "active": 1,
+        "cover_image": "https://cardiff.imgix.net/__data/assets/image/0012/657669/Open-Day-banner-image-small.jpg?w=1000\u0026fit=crop\u0026q=60\u0026auto=format",
+        "type": "U",
+        "description": "Undergraduate Open Day ",
+        "video_cover_url_en": null,
+        "video_cover_url_cy": null
+    },
+    {
+        "id": 19,
+        "start_time": "2025-06-27T09:00:00",
+        "end_time": "2025-06-27T16:00:00",
+        "active": 1,
+        "cover_image": null,
+        "type": "P",
+        "description": "Postgraduate Information Day",
+        "video_cover_url_en": null,
+        "video_cover_url_cy": null
+    },
+    {
+        "id": 15,
+        "start_time": "2025-06-28T09:00:00",
+        "end_time": "2025-06-28T16:00:00",
+        "active": 1,
+        "cover_image": "https://cardiff.imgix.net/__data/assets/image/0012/657669/Open-Day-banner-image-small.jpg?w=1000\u0026fit=crop\u0026q=60\u0026auto=format",
+        "type": "U",
+        "description": "Undergraduate Open Day ",
+        "video_cover_url_en": null,
+        "video_cover_url_cy": null
+    },
+    {
+        "id": 18,
+        "start_time": "2025-06-28T09:00:00",
+        "end_time": "2025-06-28T16:00:00",
+        "active": 1,
+        "cover_image": null,
+        "type": "P",
+        "description": "Postgraduate Information Day",
+        "video_cover_url_en": null,
+        "video_cover_url_cy": null
+    },
+    {
+        "id": 16,
+        "start_time": "2025-09-13T09:00:00",
+        "end_time": "2025-09-13T16:00:00",
+        "active": 0,
+        "cover_image": "https://cardiff.imgix.net/__data/assets/image/0012/657669/Open-Day-banner-image-small.jpg?w=1000\u0026fit=crop\u0026q=60\u0026auto=format",
+        "type": "U",
+        "description": "Undergraduate Open Day",
+        "video_cover_url_en": null,
+        "video_cover_url_cy": null
+    },
+    {
+        "id": 17,
+        "start_time": "2025-10-18T09:00:00",
+        "end_time": "2025-10-18T16:00:00",
+        "active": 0,
+        "cover_image": "https://cardiff.imgix.net/__data/assets/image/0012/657669/Open-Day-banner-image-small.jpg?w=1000\u0026fit=crop\u0026q=60\u0026auto=format",
+        "type": "U",
+        "description": "Undergraduate Open Day",
+        "video_cover_url_en": null,
+        "video_cover_url_cy": null
+    }
+]
