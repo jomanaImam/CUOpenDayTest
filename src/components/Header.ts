@@ -19,7 +19,7 @@ export function createHeader(onSearch: (query: string) => void, onMenuToggle: ()
       <div class="flex justify-between items-center h-16">
         
         <div id="logo-home-btn" class="flex items-center gap-3 overflow-hidden cursor-pointer hover:opacity-80 transition-opacity" title="Return Home">
-          <img src="https://jomanalmam.github.io/CUOpenDayTest/cu-logo.svg" alt="Cardiff University Logo" class="h-12 w-auto" />
+          <img src="./cu-logo.svg" alt="Cardiff University Logo" class="h-12 w-auto" />
           <span class="font-bold text-base sm:text-lg truncate">Open Day Planner</span>
         </div>
 
