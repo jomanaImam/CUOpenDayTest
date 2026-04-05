@@ -3,7 +3,7 @@
 A modern, responsive, and data-driven web application built for prospective students to explore and plan their Open Day experience at Cardiff University.
 
 ## Live Demo
-** (https://jomanaimam.github.io/CUOpenDay/) **
+** (https://jomanaimam.github.io/CUOpenDayTest/) **
 
 ## Project Overview
 This project was developed as a technical placement exercise. The goal is to take raw Open Day JSON data and build a highly engaging, accessible, and user friendly interface that aligns with Cardiff University. 
