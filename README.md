@@ -36,4 +36,4 @@ To run this project on your local machine:
 4. Start the development server:
    npm run dev
 
-   *Note: The application will run at `http://localhost:5173/CUOpenDayTest/`*
+   *Note: The application will run at `http://localhost:5173/CUOpenDay/`*
