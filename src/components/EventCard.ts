@@ -24,19 +24,20 @@ export function createEventCard(id: number, title: string, time: string, locatio
         : ``;
 
     return `
-        <div data-topic-id="${id}" class="event-card relative group cursor-pointer transition-all duration-300 h-full">
-            <div class="absolute -inset-0.5 bg-red-600 rounded-xl blur opacity-0 group-hover:opacity-60 transition duration-500"></div>
+        <div data-topic-id="${id}" class="event-card relative group cursor-pointer transition-all duration-300 h-full" onpointerdown="this.startY = event.clientY" onpointerup="if(window.innerWidth < 768 && Math.abs(event.clientY - this.startY) < 10) this.classList.toggle('is-tapped')">
             
-            <div class="relative bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-800 rounded-xl overflow-hidden shadow-sm hover:shadow-xl transition-all flex flex-col h-full z-10">
+            <div class="absolute -inset-0.5 bg-red-600 rounded-xl blur opacity-0 md:group-hover:opacity-60 group-[.is-tapped]:opacity-60 transition duration-500"></div>
+            
+            <div class="relative bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-800 rounded-xl overflow-hidden shadow-sm hover:shadow-xl transition-all h-full z-10 grid grid-rows-[160px_1fr_auto]">
                 
-                <div class="h-40 w-full overflow-hidden bg-gray-100 relative">
+                <div class="w-full relative h-full">
                     <img src="${finalImage}" alt="${title}" 
                          referrerpolicy="no-referrer"
-                         class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" 
+                         class="w-full h-full object-cover md:group-hover:scale-105 group-[.is-tapped]:scale-105 transition-transform duration-500" 
                          onerror="this.onerror=null; this.src='${fallbackUrl}'">
                 </div>
 
-                <div class="p-5 flex flex-col flex-grow">
+                <div class="p-5">
                     <div class="flex justify-between items-start mb-3 relative z-20">
                         <span class="bg-red-50 dark:bg-red-900/30 text-red-700 dark:text-red-400 text-[10px] uppercase tracking-widest font-black px-2 py-1 rounded">
                             ${time}
@@ -46,14 +47,14 @@ export function createEventCard(id: number, title: string, time: string, locatio
                     <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 line-clamp-2">
                         ${title}
                     </h3>
+                </div>
 
-                    <div class="mt-auto pt-4 border-t border-gray-100 dark:border-gray-800 flex flex-col">
-                        <div class="flex items-center text-sm font-medium text-gray-600 dark:text-gray-300">
-                            <svg class="w-4 h-4 mr-2 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path></svg>
-                            <span class="truncate">${location}</span>
-                        </div>
-                        ${addressHtml}
+                <div class="p-5 pt-0 border-t border-gray-100 dark:border-gray-800 flex flex-col">
+                    <div class="pt-4 flex items-center text-sm font-medium text-gray-600 dark:text-gray-300">
+                        <svg class="w-4 h-4 mr-2 text-red-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path></svg>
+                        <span class="truncate">${location}</span>
                     </div>
+                    ${addressHtml}
                 </div>
             </div>
         </div>

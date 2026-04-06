@@ -285,7 +285,7 @@ function openDepartmentView(topicId: string | null) {
 
     const programs = topic.programs || [];
     if (programs.length > 0) {
-        html += `<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 items-start">`;
+        html += `<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 items-stretch">`;
         
         programs.forEach((prog: any) => {
             const progTitle = prog.title || prog.name || "General Event";
@@ -365,23 +365,34 @@ function openDepartmentView(topicId: string | null) {
 
     detailContainer.innerHTML = html;
 
-    // Mobile interaction uncoupling
-    document.querySelectorAll('.flip-card-container').forEach(card => {
+   // Mobile Interaction: Exclusive Flip (Accordion Style)
+document.querySelectorAll('.flip-card-container').forEach(card => {
+    card.addEventListener('click', (e) => {
+        // 1. If they clicked a map link, do nothing.
+        if ((e.target as HTMLElement).closest('a')) return;
+
         const inner = card.querySelector('.flip-inner');
         const glow = card.querySelector('.flip-glow');
 
-        card.addEventListener('click', (e) => {
-            if ((e.target as HTMLElement).closest('a')) return;
-            inner?.classList.toggle('[transform:rotateY(180deg)]');
-            glow?.classList.toggle('opacity-60');
+        // 2. Remember if the card we just tapped was ALREADY open
+        const isAlreadyOpen = inner?.classList.contains('[transform:rotateY(180deg)]');
+
+        // 3. Close ALL cards on the entire page instantly
+        document.querySelectorAll('.flip-inner').forEach(el => {
+            el.classList.remove('[transform:rotateY(180deg)]');
         });
+        document.querySelectorAll('.flip-glow').forEach(el => {
+            el.classList.remove('opacity-60');
+        });
+
+        // 4. If the card we tapped was closed, open it now.
+        // (If it was already open, step 3 just closed it, so it acts like a normal toggle!)
+        if (!isAlreadyOpen) {
+            inner?.classList.add('[transform:rotateY(180deg)]');
+            glow?.classList.add('opacity-60');
+        }
     });
-
-    window.addEventListener('scroll', () => {
-        document.querySelectorAll('.flip-inner').forEach(el => el.classList.remove('[transform:rotateY(180deg)]'));
-        document.querySelectorAll('.flip-glow').forEach(el => el.classList.remove('opacity-60'));
-    }, { passive: true });
-
+});
     document.getElementById('hero-container')?.classList.add('hidden');
     document.getElementById('main-grid-view')?.classList.add('hidden');
     detailContainer.classList.remove('hidden');
